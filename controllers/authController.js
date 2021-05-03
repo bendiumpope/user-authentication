@@ -33,6 +33,7 @@ exports.register =  catchAsync(async (req, res, next) => {
         firstName: req.body.firstName,
         sureName: req.body.sureName,
         email: req.body.email,
+        occupation: req.body.occupation,
         password: req.body.password,
         confirmPassword: req.body.confirmPassword
     });
