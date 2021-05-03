@@ -10,8 +10,7 @@ router
     
 
 router
-    .route('/allusers')
-    .get(authController.protect, userController.getAllUsers)
+    .get('/allusers', authController.protect, userController.getAllUsers)
 
 
 module.exports = router;    
