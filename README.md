@@ -62,4 +62,4 @@ It contains the following requests
   "data": null
 }
 
-[Link to the API documentation with sample requests] (https://documenter.postman.com/preview/9775449-0146bca6-a021-4345-b8c0-a68d5fdf4c0f?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25)
+[Link to the API documentation with sample requests](https://documenter.postman.com/preview/9775449-0146bca6-a021-4345-b8c0-a68d5fdf4c0f?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&right-sidebar=303030&top-bar=FFFFFF&highlight=EF5B25)
